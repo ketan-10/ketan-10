@@ -12,5 +12,5 @@
 
 <a href="#">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ketan-10&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-10&layout=compact&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-10&hide=jupyter%20notebook&langs_count=10&layout=compact" />
 </a>
