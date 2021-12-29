@@ -4,7 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/ketan-10)
 
-<a href="#"><img width=800 src="https://github-profile-trophy.vercel.app/?username=ketan-10&column=7"/>
+<a href="#">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ketan-10&column=7"/>
 </a>
 
 ---
