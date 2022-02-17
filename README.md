@@ -45,6 +45,7 @@
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 2. 🗣 Commented on [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
@@ -52,6 +53,7 @@
 4. 💪 Opened PR [#3](https://github.com/Atharva21/cdk-poc/pull/3) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 5. 💪 Opened PR [#2](https://github.com/Atharva21/cdk-poc/pull/2) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 <!--END_SECTION:activity-->
+  
 </details>
 
 <br>
