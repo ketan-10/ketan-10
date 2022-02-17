@@ -1,11 +1,12 @@
 [<img src="https://user-images.githubusercontent.com/35309821/154496197-2ac46cb4-e709-47f2-a0b9-d8ef4b09f925.gif" alt="👋 Hi there! I'm (Ketan|https://ketan.link)" title="https://ketan.link"/>](https://www.ketan.link)
 ### Connect with me:
 
-![GitHub](https://img.shields.io/github/followers/ketan-10?label=follow&style=social)
-![Linkedin](https://img.shields.io/badge/-Ketan%20Chaudhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketan-chaudhari-063233150/)
-![Twitter](https://img.shields.io/twitter/follow/1010ketan?style=social)
-![Mail](https://img.shields.io/badge/Mail%20me-blue?style=social&logo=gmail&label=gmail&link=mailto%3Aketanchaudhari1998%40gmail.com)
-![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/10066692?logo=Stack%20Overflow&link=https://stackoverflow.com/users/10066692/ketan-chaudhari)
+[![GitHub](https://img.shields.io/github/followers/ketan-10?label=follow&style=social)](https://github.com/ketan-10)
+[![Linkedin](https://img.shields.io/badge/-Ketan%20Chaudhari-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-chaudhari-063233150/)
+[![Twitter](https://img.shields.io/twitter/follow/1010ketan?style=social)](https://twitter.com/intent/follow?screen_name=1010ketan)
+[![Mail](https://img.shields.io/badge/Mail%20me-blue?style=social&logo=gmail&label=gmail)](mailto:ketanchaudhari1998@gmail.com)
+[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/10066692?label=stackoverflow&logo=Stack%20Overflow)](https://stackoverflow.com/users/10066692/ketan-chaudhari)
+
 
 ### Languages and Tools:
 
