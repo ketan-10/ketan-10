@@ -1,5 +1,4 @@
-![CPT2202171751-1094x261](https://user-images.githubusercontent.com/35309821/154496197-2ac46cb4-e709-47f2-a0b9-d8ef4b09f925.gif)
-
+[<img src="https://user-images.githubusercontent.com/35309821/154496197-2ac46cb4-e709-47f2-a0b9-d8ef4b09f925.gif" alt="👋 Hi there! I'm (Ketan|https://ketan.link)" title="https://ketan.link"/>](https://www.ketan.link)
 ### Connect with me:
 
 ![GitHub](https://img.shields.io/github/followers/ketan-10?label=follow&style=social)
@@ -36,11 +35,12 @@
 
 ---
 
-<a href="#" style="display: flex; flex-wrap: wrap; justify-content:center; gap: 1rem">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketan-10&show_icons=true&hide_border=true&theme=nord" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-10&hide=jupyter%20notebook&langs_count=10&layout=compact&theme=nord" />
-</a>
-
+<a href="#">
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-10&hide=jupyter%20notebook&langs_count=10&layout=compact&theme=nord" />
+      <img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=ketan-10&show_icons=true&hide_border=true&theme=nord" />
+  </p>
+</a
 <br>
 
 <details>
@@ -51,19 +51,13 @@
 
 <br>
 
-<a href="#" style="display:flex; justify-content:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ketan-10&column=7&theme=nord"/>
+<a href="#">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ketan-10&column=7&theme=nord"/>
+  </p>  
 </a>
 
-
-
-
-
 <br>
-
-
-
-
 
 <br> 
 
